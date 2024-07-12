@@ -10,8 +10,6 @@ To get started with BlogBot, follow these steps:
 1. Installation: Clone the repository and install dependencies.
 ``git clone <repository_url>
 
-
 cd BlogBot
-
 
 npm install  # or yarn install``
